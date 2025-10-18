@@ -1,0 +1,25 @@
+
+[
+  {
+    "createdAt": "2024-02-23T16:58:31.616Z",
+    "updatedAt": "2024-02-23T16:58:31.616Z",
+    "id": "srOnR8PAY3u4RSwb",
+    "name": "Demo workflow",
+    "active": false,
+    "isArchived": true,
+    "nodes": [],
+    "connections": {},
+    "settings": {
+      "executionOrder": "v1"
+    },
+    "staticData": null,
+    "meta":{
+      "templateCredsSetupCompleted": true
+    },
+    "pinData": {},
+    "versionId": "4e2affe6-bb1c-4ddc-92f9-dde0b7656796",
+    "triggerCount": 0,
+    "shared": [],
+    "tags": []
+  }
+]
