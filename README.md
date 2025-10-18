@@ -8,15 +8,20 @@ Workflows are organized in subfolders by use case or integration (e.g., webhooks
 
 Example file structure:
 
-text
-.
 ├── README.md
+
 ├── webhooks/
+
 │   └── github-to-slack.json
+
 ├── email/
+
 │   └── weekly-report.json
+
 └── data-processing/
+
     └── csv-to-database.json
+
 🚀 Getting Started
 Install n8n:
 See the official n8n documentation (Docker, desktop, or cloud).
